@@ -1,2 +1,2 @@
 # softex
-Atividades relacionadas ao curso de formação acelerada promovido pela Softex Pernambuco
+Atividades relacionadas ao curso de formação acelerada em programação promovido pela Softex Pernambuco
