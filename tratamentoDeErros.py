@@ -12,7 +12,7 @@ while True:
             raise Exception("Informe uma data de nascimento Válida")
         else:
             print(f"\nNome do usuário: {usuario_nome}\nData de Nascimento: {usuario_dataNascimento}\n"
-                  f"Sua idade atual em 2022: {2022-usuario_dataNascimento}")
+                  f"Sua idade que completou/completará em 2022: {2022-usuario_dataNascimento}")
             print("Programa Finalizado!")
             break
 
